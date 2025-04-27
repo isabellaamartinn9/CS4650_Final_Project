@@ -1,6 +1,4 @@
-# CS4650 Final Project
-
-Binary Sentiment Analysis on IMDb Reviews
+# CS4650 Final Project: Binary Sentiment Analysis on IMDb Reviews
 
 **Overview:**
 This project implements and compares three approaches to binary sentiment classification of movie reviews:

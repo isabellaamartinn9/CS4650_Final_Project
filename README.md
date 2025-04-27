@@ -25,3 +25,11 @@ For efficient training, we sampled:
 - 2,000 reviews for training
 
 - 1,000 reviews for testing (shuffled beforehand to avoid label imbalance)
+
+**Files:**
+
+<mark>NLPproject.ipynb</mark>: Final Jupyter Notebook containing code and results
+
+<mark>NLP_Project_Report.pdf</mark>: Project report with methodology, evaluation, and discussion
+
+<mark>README.md</mark>: Project overview and instructions

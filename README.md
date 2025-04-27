@@ -1,4 +1,4 @@
-# CS4650_Final_Project
+# CS4650 Final Project
 
 Binary Sentiment Analysis on IMDb Reviews
 

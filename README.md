@@ -13,9 +13,9 @@ This project implements and compares three approaches to binary sentiment classi
 
 Our goal was to evaluate performance across deep learning and traditional methods using the same dataset and metrics.
 
-**Dataset**
-We used the IMDb Movie Reviews Dataset:
-
+**Dataset:**
+We used the IMDb Movie Reviews Dataset. 
+This consisted of:
 - 50,000 total labeled movie reviews (positive or negative)
 
 - Balanced classes
